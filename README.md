@@ -1,2 +1,2 @@
 # dummy-project
-Testing-Stuff
+Contains some media-files needed for my FreeCodeCamp-projects
